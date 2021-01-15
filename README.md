@@ -55,3 +55,15 @@
 - Rotates the burden of leadership to reduce burnout. 
 - Decentralizes value creation. 
 - Breaking up value and control eliminates lasting concentrations of power.
+
+# How would it evolve?
+
+- Founder(s) initiates an idea to a buiness version of Github.
+- Once idea reaches 9 collaborators, a vote is cast for the first leader (CEO).
+- ICO is formed and offered. 
+- Founders awarded an initial round of stock for being a founder. 
+- Investors can either invest, or not invest making the shares valuable or not valuable. 
+- The idea can progress and become more valuable or not progress and become worthless. 
+- Habitual abusers of launching ideas that are never fulfilled will be banned from the platform. Investors are warned that investing could cause them to lose some if not all of their value. 
+
+
