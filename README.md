@@ -44,7 +44,8 @@
 - An employee may buy or sell his or her shares at anytime.
 - It is up to the employees of the company to create and manage value. 
 - It is up to shareholders to determine that value. External investors have no say as to how the company operates other than to choose to hold their shares or sell their shares.
-- Funding works similar to crowdfunding. 
+- Funding works similar to crowdfunding.
+- Because variable compensation is based on length of time with the project, the people that had contributed to the project for the longest would have the most shares. This would adequately compensate founders and encourage them to stay on with a valuable project. 
 
 
 # What problems does this solve?
@@ -55,6 +56,7 @@
 - Rotates the burden of leadership to reduce burnout. 
 - Decentralizes value creation. 
 - Breaking up value and control eliminates lasting concentrations of power.
+- Leaddership terms allow founders to work on ideas without having to bear the burdens that come with long term top level leadership duties.
 
 # How would it evolve?
 
