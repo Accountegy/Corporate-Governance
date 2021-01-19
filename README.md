@@ -8,7 +8,7 @@
 - Democratic in nature.
 
 
-# How might that work inside an organization?
+# How might decentralization work inside an organization?
 
 - Needs to be "bottom up".
 - Every member can contribute.
