@@ -19,7 +19,10 @@
 - Must consist of no more than 9 people. 
 - Must have an odd number of people to ensure majority rule.
 - Must have only one team leader.
-- Team can vote by consensus to add or subtract team members and elect their leader.
+- Team can vote by consensus to:
+    -add a new position
+    -subtract team members
+    -elect their leader.
 - Team members are compensated with a healthy base pay +  a bit of company stock. 
 - Stock award increases every two years.
 
