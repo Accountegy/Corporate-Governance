@@ -1,4 +1,4 @@
-# How could decentralization work?
+# How does decentralization work?
 
 - Peer to peer.
 - Not reliant on a gateway.
