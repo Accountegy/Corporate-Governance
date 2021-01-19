@@ -32,7 +32,7 @@
 - Team leaders are voted by team every year.
 - Leadership terms are for one year. 
 - Leader cannot serve more that 4 terms.
-- Leaders must have worked at the organization for two years in order to be elibile to be a leader.
+- Leaders must have worked at the organization for two years in order to be eligible to be a leader.
 - Leaders serve as both scrum manager and HR for their teams. 
 
 ## CEO 
@@ -53,13 +53,13 @@
 
 # What problems does this solve?
 - Leadership changes prevent organization from being trapped by a mono-culture and/or ineffective leaders.
-- The direction of the company is being steered by the team members that choose to work there and the value they create together. 
--  All employees have a say as to the direction of the company when they pick their team leaders and vote on the CEO.
+- The direction of the company is being steered by the team members that choose to work there and the value that they create together. 
+- All employees have a say as to the direction of the company when they pick their team leaders and vote on the CEO.
 - Everyone at all levels is accountable to one another. 
 - Rotates the burden of leadership to reduce burnout. 
 - Decentralizes value creation. 
 - Breaking up value and control eliminates lasting concentrations of power.
-- Leaddership terms allow founders to work on ideas without having to bear the burdens that come with long term top level leadership duties.
+- Leadership terms allow founders to work on ideas without having to bear the burdens that come with long term top level leadership duties.
 
 # How would it evolve?
 
